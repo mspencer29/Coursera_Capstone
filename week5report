@@ -1,0 +1,15 @@
+Introduction where you discuss the business problem and who would be interested in this project.
+  - The business problem tackled here is where to open a restaurant in Toronto based on current pizza locations and population sizes.
+Data where you describe the data that will be used to solve the problem and the source of the data.
+  - Data on types of locations in Toronto will be recycled from previous weeks. Population and neighbourhood boundary data pulled from open.toronto.ca website. 
+Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
+  - The exploratory data analysis that was done was similar to previous weeks but focused on pizza restaurants in Toronto. Clusters were formed to show what the
+    best location would be geographically based on which neighbourhoods currently have pizza restaurants. Neighbourhood population density was also considered in the final 
+    decision.
+Results section where you discuss the results.
+  - The results were that the largest density that was visually apparent that did not have a pizza restaurant is west of the university (which university students would be a 
+    target market) in the Palmerston-Little Italy neighbourhood. 
+Conclusion section where you conclude the report.
+  - To conclude I believe that this location would be extremely profitable due to the high population density, lack of competition in the area, and high volume of target 
+    consumers in the immediate area. I would note that the foursquare data is less than reliable as my assumption is that Little Italy would have pizza places already, most likely 
+    classified as something else, Italian restaurants were also included in the data. 
